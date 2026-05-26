@@ -1,0 +1,65 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-541fee20f734dd72.js",
+      "static/chunks/fd9d1056-6d83981521b06321.js",
+      "static/chunks/117-5b3c4d03135a892f.js",
+      "static/chunks/main-app-3ebe466588f842a5.js",
+      "static/chunks/app/_not-found/page-b9578c9ee3dfb0ed.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-541fee20f734dd72.js",
+      "static/chunks/fd9d1056-6d83981521b06321.js",
+      "static/chunks/117-5b3c4d03135a892f.js",
+      "static/chunks/main-app-3ebe466588f842a5.js",
+      "static/css/fc0131607d321f9f.css",
+      "static/chunks/505-f7fc2ab045948080.js",
+      "static/chunks/324-806f97678ac5cc88.js",
+      "static/chunks/app/layout-e70a5c4db7b9330e.js"
+    ],
+    "/predictor/page": [
+      "static/chunks/webpack-541fee20f734dd72.js",
+      "static/chunks/fd9d1056-6d83981521b06321.js",
+      "static/chunks/117-5b3c4d03135a892f.js",
+      "static/chunks/main-app-3ebe466588f842a5.js",
+      "static/chunks/505-f7fc2ab045948080.js",
+      "static/chunks/324-806f97678ac5cc88.js",
+      "static/chunks/app/predictor/page-7a693f7b614d264d.js"
+    ],
+    "/colleges/page": [
+      "static/chunks/webpack-541fee20f734dd72.js",
+      "static/chunks/fd9d1056-6d83981521b06321.js",
+      "static/chunks/117-5b3c4d03135a892f.js",
+      "static/chunks/main-app-3ebe466588f842a5.js",
+      "static/chunks/505-f7fc2ab045948080.js",
+      "static/chunks/324-806f97678ac5cc88.js",
+      "static/chunks/app/colleges/page-3b30d60f43b78141.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-541fee20f734dd72.js",
+      "static/chunks/fd9d1056-6d83981521b06321.js",
+      "static/chunks/117-5b3c4d03135a892f.js",
+      "static/chunks/main-app-3ebe466588f842a5.js",
+      "static/chunks/505-f7fc2ab045948080.js",
+      "static/chunks/324-806f97678ac5cc88.js",
+      "static/chunks/app/page-ef575f08ea168ff9.js"
+    ],
+    "/compare/page": [
+      "static/chunks/webpack-541fee20f734dd72.js",
+      "static/chunks/fd9d1056-6d83981521b06321.js",
+      "static/chunks/117-5b3c4d03135a892f.js",
+      "static/chunks/main-app-3ebe466588f842a5.js",
+      "static/chunks/505-f7fc2ab045948080.js",
+      "static/chunks/324-806f97678ac5cc88.js",
+      "static/chunks/app/compare/page-3bc2f4d868f86651.js"
+    ],
+    "/colleges/[id]/page": [
+      "static/chunks/webpack-541fee20f734dd72.js",
+      "static/chunks/fd9d1056-6d83981521b06321.js",
+      "static/chunks/117-5b3c4d03135a892f.js",
+      "static/chunks/main-app-3ebe466588f842a5.js",
+      "static/chunks/505-f7fc2ab045948080.js",
+      "static/chunks/app/colleges/[id]/page-6ab0a5235845f4b0.js"
+    ]
+  }
+}

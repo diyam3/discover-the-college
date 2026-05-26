@@ -147,7 +147,7 @@ export default function PredictorPage() {
   const isStepValid = (s: Step): boolean => {
     if (s === 1) return form.exam !== "";
     if (s === 2) return form.rank !== "" && parseInt(form.rank) > 0;
-    if (s === 3) return form.category !== "" && form.state !== "";
+    if (s === 3) return Boolean(form.category) && Boolean(form.state);
     return false;
   };
 
